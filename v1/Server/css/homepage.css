@@ -1,0 +1,159 @@
+/*
+	General
+*/
+body, html {
+	margin:0;
+	padding:0;
+	height:100%;
+	font-family:Sans-serif;
+}
+
+a {
+	text-decoration:none;
+	color:#000000;
+}
+
+.full_sect {
+	height:100vh;
+	max-height:100vh;
+	border-bottom:0.1em solid black;
+}
+
+/*
+	Navigation Bar
+*/
+
+#navigation {
+	background:#fff;
+    color:#555f66;
+    cursor:default;
+	line-height:3em;
+    height:3em;
+    width:100%;
+	position:fixed;
+	top:0;
+    left:0;
+    z-index:10000;
+    box-shadow:0 0 0.1em 0 rgba(0, 0, 0, 0.25);
+}
+
+#navigation h1 {
+    font-weight:300;
+    height:inherit;
+    line-height:inherit;
+	top:0;
+    right:1.25em;
+	position:absolute;
+    margin:0;
+    padding:0;
+}
+
+#navigation_links {
+	height:inherit;
+    line-height:inherit;
+	top:0;
+    left:1.25em;
+    position:absolute;
+    vertical-align: middle;
+}
+
+.link {
+    display:inline-block;
+	margin-right:1.25em;
+	font-size:1.5em;
+	font-weight:100;
+    color:#3C1414;
+    text-decoration:none;
+}
+.link:hover {
+	transition:color 0.2s ease-in-out;
+	color:#9A0000;
+}
+
+/*
+	Page Styles
+*/
+#page {
+	top:3em;
+	position:relative;
+	width:90%;
+	margin:2.5%;
+}
+
+/*
+	Main Styles
+*/
+#home_left {
+	width:40%;
+	float:left;
+}
+
+#home_title {
+	font-size:2.75em;
+}
+#home_subtitle {
+	padding-left:1em;
+	font-size:1.75em;
+	color:#5E5E5E;
+}
+
+#home_right {
+	height:100%;
+	width:60%;
+	float:left;
+	background-image:url(keyboard-70506.jpg);
+	background-size:100%;
+}
+
+#home_right div {
+	background-color:rgba(0,0,0,0.5) !important;
+	padding:2.5%;
+}
+
+#home_right div p {
+	color:#E0E0E0;
+}
+
+#home_right span {
+	font-size:1.6em;
+	color:#E0E0E0;
+	font-weight:100;
+}
+
+.button {
+	background-color:#192024;
+    border-radius:6px;
+    border:0;
+    color:#ffffff !important;
+    cursor:pointer;
+    display:inline-block;
+    font-weight:300;
+    text-transform:uppercase;
+    letter-spacing:0.125em;
+    font-size:0.9em;
+    height:2.85em;
+    line-height:2.85em;
+    padding:0 1.75em;
+    text-align:center;
+    text-decoration:none;
+    white-space:nowrap;
+    text-indent:0.25em;
+}
+
+/*
+	Section Styles
+*/
+
+#footer {
+	text-align:center;
+	font-size:1.5em;
+}
+
+.sect_title {
+	font-size:2em;
+	
+}
+
+#overview {
+	
+}
