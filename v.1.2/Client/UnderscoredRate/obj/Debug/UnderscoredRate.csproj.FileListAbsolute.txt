@@ -1,0 +1,11 @@
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\bin\Debug\ScoreMyPC.exe.config
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\bin\Debug\ScoreMyPC.exe.manifest
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\bin\Debug\ScoreMyPC.application
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\bin\Debug\ScoreMyPC.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\bin\Debug\ScoreMyPC.pdb
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\obj\Debug\ScoreMyPC.TrustInfo.xml
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\obj\Debug\ScoreMyPC.exe.manifest
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\obj\Debug\ScoreMyPC.application
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\obj\Debug\ScoreMyPC.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\obj\Debug\ScoreMyPC.pdb
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\ScoreMyPC\UnderscoredRate\obj\Debug\UnderscoredRate.csprojResolveAssemblyReference.cache

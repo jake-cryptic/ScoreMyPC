@@ -1,0 +1,5 @@
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\test\test\bin\x64\Debug\test.exe.config
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\test\test\bin\x64\Debug\test.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\test\test\bin\x64\Debug\test.pdb
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\test\test\obj\x64\Debug\test.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\test\test\obj\x64\Debug\test.pdb
