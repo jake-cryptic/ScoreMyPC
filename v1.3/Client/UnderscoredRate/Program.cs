@@ -14,8 +14,8 @@ namespace UnderScored.SysInfo {
             string server, result = "", programVer = "0.6";
             string dataRAM = "", dataCPU = "", dataGPU = "", dataBSE = "", dataNIC = "", dataHDD = "", dataINF = "", dataUSR = "";
 
-            server = "http://192.168.0.13/SysInfo/";
-            //server = "http://projects.absolutedouble.co.uk/scoremypc/";
+            //server = "http://192.168.0.13/SysInfo/";
+            server = "http://projects.absolutedouble.co.uk/scoremypc/";
             
             Console.Title = "UnderScored - System Scorer v" + programVer;
             Console.WriteLine("Now loading information..\n");
